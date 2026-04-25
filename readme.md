@@ -1,6 +1,6 @@
 # Data Setup
 This project requires external data files that are **not included in the repository** due to their size. You must download them manually before running any scripts.
----
+
 ## Required Files
 ### `data/data.pckl`
 A pickled pandas DataFrame containing crystal structure entries and their computed dielectric properties.
@@ -19,7 +19,7 @@ A directory of JSON files, each representing a `ComputedStructureEntry` with RPA
 
 ---
 ## Where to Download
-> [Download data.pckl from Figshare](__https://figshare.com/articles/dataset/Data_for_evaluating_OptiMate3B/30257551?file=58427512__)
+> [Download data.pckl from Figshare](https://figshare.com/articles/dataset/Data_for_evaluating_OptiMate3B/30257551?file=58427512)
 
 Once downloaded, place the file at:
 
